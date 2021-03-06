@@ -1,0 +1,10 @@
+D:\3-09ПС-2 (2020-2021)\BusSchedule\BusSchedule\bin\Debug\BusSchedule.exe.config
+D:\3-09ПС-2 (2020-2021)\BusSchedule\BusSchedule\bin\Debug\BusSchedule.exe
+D:\3-09ПС-2 (2020-2021)\BusSchedule\BusSchedule\bin\Debug\BusSchedule.pdb
+D:\3-09ПС-2 (2020-2021)\BusSchedule\BusSchedule\obj\Debug\BusSchedule.csprojAssemblyReference.cache
+D:\3-09ПС-2 (2020-2021)\BusSchedule\BusSchedule\obj\Debug\BusSchedule.Form1.resources
+D:\3-09ПС-2 (2020-2021)\BusSchedule\BusSchedule\obj\Debug\BusSchedule.Properties.Resources.resources
+D:\3-09ПС-2 (2020-2021)\BusSchedule\BusSchedule\obj\Debug\BusSchedule.StopsForm.resources
+D:\3-09ПС-2 (2020-2021)\BusSchedule\BusSchedule\obj\Debug\BusSchedule.csproj.GenerateResource.cache
+D:\3-09ПС-2 (2020-2021)\BusSchedule\BusSchedule\obj\Debug\BusSchedule.exe
+D:\3-09ПС-2 (2020-2021)\BusSchedule\BusSchedule\obj\Debug\BusSchedule.pdb
